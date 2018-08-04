@@ -1,0 +1,19 @@
+{
+    "python.unitTest.pyTestArgs": [
+        "."
+    ],
+    "python.unitTest.unittestEnabled": false,
+    "python.unitTest.nosetestsEnabled": false,
+    "python.unitTest.pyTestEnabled": false,
+    "python.unitTest.promptToConfigure": false,
+    "python.linting.flake8Enabled": true,
+    "python.formatting.provider": "yapf",
+    "editor.tabCompletion": true,
+    "python.autoComplete.extraPaths": [],
+    "python.autoComplete.preloadModules": [],
+    "editor.fontSize": 20,
+    "editor.fontFamily": "Consolas, 'Courier New', monospace",
+    "workbench.colorTheme": "Expressive Theme",
+    "workbench.iconTheme": "vscode-icons",
+    git config --global user.name "ASxx",
+}
